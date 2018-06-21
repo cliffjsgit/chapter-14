@@ -11,7 +11,8 @@ __author__ = "Your Name"
 # - No answer variable is needed. Grading script will call function.
 # - Function "store_anagrams" should take in a dictionary file specified in 
 # the arguments, pass it to the function in "anagram_sets" that will generate
-# an anagram dictiontionary, and then write it to a shelve.
+# an anagram dictiontionary, and then write it to a shelve. The name of the
+# shelve that will be created should be specified as a second argument.
 # - Function "read_anagrams" should take in a shelve file as well as a word
 # and then returns a list of anagrams.
 # 
@@ -25,3 +26,14 @@ __author__ = "Your Name"
 # store_anagrams should store the anagram dictionary in a "shelf"; read_anagrams
 # should look up a word and return a list of its anagrams.
 # 
+
+import anagram_sets
+
+def store_anagrams(dictFile,shelveFile):
+    return
+
+def read_anagrams(shelveFile,word):
+    return
+
+store_anagrams("words.txt","myShelve.db")
+store_anagrams("myShelve.db","example")

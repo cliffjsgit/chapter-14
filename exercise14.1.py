@@ -22,3 +22,8 @@ __author__ = "Your Name"
 # program should catch the exception, return an error message as a
 # string, and exit.
 #
+
+def sed(pattern,replacement,oldFile,newFile):
+    return
+
+sed("pattern","newstring","sed_tester.txt","sed_tester_new.txt")
