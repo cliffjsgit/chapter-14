@@ -17,12 +17,13 @@ Once you have cloned this repo, you may proceed to the labs.
      ~/chapter-14 (master)$ ls
      ...
 
-Create a solutions directory for your exercise solutions, in the chapter-12 directory.
+Create a solutions directory for your exercise solutions, in the chapter-14 directory.
       
      ~/chapter-14 (master)$ mkdir solutions
       
-Copy all of your final/completed chapter-9 lab **exercise solutions** from all exercise 
-problems, and the **words.txt** file into the solutions directory.  
+Copy all of your final/completed chapter-14 lab **exercise solutions** from all exercise 
+problems, the **sed_tester.txt**, the **words.txt**, the mp3 directory file, and  
+**anagram_sets.py** files into the solutions directory.  
     
      ~/chapter-14 (master)$ cp *  solutions/ 
      ...
