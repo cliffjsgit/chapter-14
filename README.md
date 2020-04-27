@@ -22,8 +22,8 @@ Create a solutions directory for your exercise solutions, in the chapter-14 dire
      ~/chapter-14 (master)$ mkdir solutions
       
 Copy all of your final/completed chapter-14 lab **exercise solutions** from all exercise 
-problems, the **sed_tester.txt**, the **words.txt**, the mp3 directory file, and  
-**anagram_sets.py** files into the solutions directory.  
+problems, the **sed_tester.txt**, the **words.txt**, the **mp3** directory files, and  
+**anagram_sets.py** into the solutions directory.  
     
      ~/chapter-14 (master)$ cp *  solutions/ 
      ...
